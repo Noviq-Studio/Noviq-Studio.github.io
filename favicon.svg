@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ALTA">
+  <rect width="64" height="64" rx="12" fill="#074952" />
+  <!-- Minimal ALTA 'A' mark -->
+  <path d="M32 14 L46 50 L39.6 50 L36.4 41.4 L27.6 41.4 L24.4 50 L18 50 Z M29.4 36.2 L34.6 36.2 L32 28.8 Z"
+        fill="#F5F1E7" />
+</svg>
